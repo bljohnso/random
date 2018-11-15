@@ -23,7 +23,7 @@ We typically use a [Quadrotor X configuration], but there are more options [here
 
 #### Wire electrical components
 
-Follow [Pixhawk wiring guide] to connect components to flight controller
+Follow the [Pixhawk wiring guide] to connect components to flight controller
 
 
 #### Set up radio transmitter
