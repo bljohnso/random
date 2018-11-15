@@ -16,9 +16,13 @@
 
 This guide will show you how to configure a custom drone for manual flight with an RC Controller
 
-#### Choose an airframe configuration
+#### Follow Hardware Guide
 
-We typically use a Quadrotor X configuration, but there are more options [here]
+[Quadrotor X configuration]
+
+```
+More options [here]
+```
 
 #### Wire electrical components
 Follow [Pixhawk wiring guide] to connect components to flight controller
@@ -64,6 +68,7 @@ and tune trims to achieve stability
 If the drone will not arm, plug it back into the computer with QGroundControl running and check the HUD messages
 Most likely the drone failed a [preflight check]
 
+[Quadrotor X configuration]: <random/Hardware Guide.md>
 [here]: <https://docs.px4.io/en/airframes/airframe_reference.html>
 [Pixhawk wiring guide]: <https://docs.px4.io/en/assembly/quick_start_cube.html>
 [create your own]: <https://www.youtube.com/watch?v=FD5Fq62wWj4>
