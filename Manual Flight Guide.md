@@ -16,15 +16,13 @@
 
 This guide will show you how to configure a custom drone for manual flight with an RC Controller
 
-#### Follow Hardware Guide
+#### Assemble Drone Hardware
 
-[Quadrotor X configuration]
+We typically use a [Quadrotor X configuration], but there are more options [here]
 
-```
-More options [here]
-```
 
 #### Wire electrical components
+
 Follow [Pixhawk wiring guide] to connect components to flight controller
 
 
