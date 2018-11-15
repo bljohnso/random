@@ -63,8 +63,8 @@ and tune trims to achieve stability
 ```
 3. When finished, move the throttle to the bottom left, hold a few seconds to disarm
 
-If the drone will not arm, plug it back into the computer with QGroundControl running and check the HUD messages
-Most likely the drone failed a [preflight check]
+If the drone will not arm, plug it back into the computer with QGroundControl running and check the HUD messages, 
+most likely it drone failed a [preflight check]
 
 [Quadrotor X configuration]: <Hardware Guide.md>
 [here]: <https://docs.px4.io/en/airframes/airframe_reference.html>
